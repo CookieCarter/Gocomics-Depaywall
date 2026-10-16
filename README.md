@@ -2,7 +2,7 @@
 
 This is a fork of Idiot-01's [Gocomics-Depaywall](https://github.com/Idiot-01/Gocomics-Depaywall) that works as of the latest release of this repo. It does not support uBlockOrigin anymore because this project now uses javascript to work.
 
-> ![NOTE]
+> [!NOTE]
 > Changes to the GoComics website may cause this script to stop working.
 
 Just a simple userscript to bypass the paywall on gocomics.com, and removes the adspaces as well.
