@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Gocomics Depaywall
 // @description Bypasses the Gocomics Paywall and Removes Ads
-// @icon        https://github.com/CookieCarter/Gocomics-Depaywall/raw/refs/heads/master/Extension/icons/border-48.png
+// @icon        https://github.com/CookieCarter/Gocomics-Depaywall/raw/refs/heads/main/Extension/icons/border-48.png
 // @match       *://*.gocomics.com/*
 // @grant       none
 // @version     3.0
@@ -11,8 +11,8 @@
 // @compatible  opera
 // @compatible  safari
 // @compatible  edge
-// @downloadURL https://github.com/CookieCarter/Gocomics-Depaywall/raw/master/Userscript/gocomics.user.js
-// @updateURL   https://github.com/CookieCarter/Gocomics-Depaywall/raw/master/Userscript/gocomics.user.js
+// @downloadURL https://github.com/CookieCarter/Gocomics-Depaywall/raw/main/Userscript/gocomics.user.js
+// @updateURL   https://github.com/CookieCarter/Gocomics-Depaywall/raw/main/Userscript/gocomics.user.js
 // @run-at      document-end
 // ==/UserScript==
 
