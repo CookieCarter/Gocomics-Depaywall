@@ -21,9 +21,7 @@
   'use strict';
 
   // Hide ad elements, set overflow:auto to allow scroll
-  // Random class is some ad thing, probably going to change
   const css = `
-  .harzsgqwhvvy73igflnyivy7,
   div[class*="AdDisplay"],
   div[class*="HeaderAd"],
   div[class*="UpsellSectionBreak"],

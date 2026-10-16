@@ -5,7 +5,7 @@ This is a fork of Idiot-01's [Gocomics-Depaywall](https://github.com/Idiot-01/Go
 > [!NOTE]
 > Changes to the GoComics website may cause this script to stop working.
 
-Just a simple userscript to bypass the paywall on gocomics.com, and removes the adspaces as well.
+Just a simple userscript to bypass the paywall on gocomics.com.
 
 ## Userscript
 
