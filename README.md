@@ -1,0 +1,17 @@
+# Gocomics Depaywall
+
+This is a fork of Idiot-01's [Gocomics-Depaywall](https://github.com/Idiot-01/Gocomics-Depaywall) that works as of the latest release of this repo. It does not support uBlockOrigin anymore because this project now uses javascript to work.
+
+> ![NOTE]
+> Changes to the GoComics website may cause this script to stop working.
+
+Just a simple userscript to bypass the paywall on gocomics.com, and removes the adspaces as well.
+
+# Usage
+
+If you have access to uBlockOrigin on your browser, it's strongly recommended to use that method. I made the userscript mainly for devices on iOS that don't have access to free element blockers but have free userscript managers.
+
+## Userscript
+
+Install any userscript manager, such as [Userscripts](https://apps.apple.com/app/userscripts/id1463298887) for iOS / [Violentmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/) for Firefox / [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Chrome.
+Then go to the [userscript raw page](https://github.com/CookieCarter/Gocomics-Depaywall/raw/master/Userscript/gocomics.user.js) and your userscript manager should prompt you to install it.

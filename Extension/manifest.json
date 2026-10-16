@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Gocomics Depaywall",
+    "version": "3.0",
+  
+    "description": "Bypasses the Gocomics paywall and removes ads.",
+
+    "homepage_url": "https://github.com/CookieCarter/Gocomics-Depaywall",
+  
+    "icons": {
+      "48": "icons/border-48.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.gocomics.com/*"],
+        "js": ["gocomics.js"]
+      }
+    ]
+}
+  
